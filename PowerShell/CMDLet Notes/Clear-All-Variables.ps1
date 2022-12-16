@@ -1,0 +1,1 @@
+Remove-Variable * -ErrorAction SilentlyContinue
